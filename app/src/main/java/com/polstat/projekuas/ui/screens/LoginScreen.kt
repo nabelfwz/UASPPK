@@ -107,7 +107,7 @@ fun LoginScreen(navController: NavController) {
                 verticalArrangement = Arrangement.Center
             ) {
                 Text(
-                    text = "SIPENDUK",
+                    text = "SISPENDUK",
                     color = MaterialTheme.colorScheme.primary,
                     style = MaterialTheme.typography.headlineMedium,
                     modifier = Modifier
